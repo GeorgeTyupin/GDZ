@@ -1,0 +1,22 @@
+body {
+	background-color: #54575B !important;
+}
+
+.searchinput {
+	height: 50px;
+	background: #FEE5AC;
+	border-radius: 12px;
+	margin-top: 3em !important;
+}
+
+.filter {
+	background-color: #383B40;
+	height: 30rem;
+	border-radius: 20px;
+}
+
+.slk {
+	background-color: #383B40;
+	height: 30rem;
+	border-radius: 20px;
+}
